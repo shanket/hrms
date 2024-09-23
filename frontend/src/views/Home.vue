@@ -28,14 +28,19 @@ const quickLinks = [
 		title: "Request Leave",
 		route: "LeaveApplicationFormView",
 	},
-	{
-		icon: markRaw(ExpenseIcon),
-		title: "Claim an Expense",
-		route: "ExpenseClaimFormView",
-	},
+	// {
+	// 	icon: markRaw(ExpenseIcon),
+	// 	title: "Claim an Expense",
+	// 	route: "ExpenseClaimFormView",
+	// },
+	// {
+	// 	icon: markRaw(EmployeeAdvanceIcon),
+	// 	title: "Request an Advance",
+	// 	route: "EmployeeAdvanceFormView",
+	// },
 	{
 		icon: markRaw(EmployeeAdvanceIcon),
-		title: "Request an Advance",
+		title: "Request an Attendance",
 		route: "EmployeeAdvanceFormView",
 	},
 	{
